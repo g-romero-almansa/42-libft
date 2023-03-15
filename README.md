@@ -1,2 +1,2 @@
 # 42-libft
-Proyecto libreria libft.h con los bonus y una puntuacion de 125/100
+Primer proyecto de 42 que se basa en crear una libreria con varias funciones utiles de cara a futuros proyectos.
